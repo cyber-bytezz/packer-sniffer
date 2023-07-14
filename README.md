@@ -14,6 +14,6 @@ You can install these dependencies using pip:
 ```shell
 pip install scapy
 pip install requests
-git clone https://github.com/your-username/packet-sniffer.git
+git clone https://github.com/cyber-bytezz/packet-sniffer.git
 cd packet-sniffer
 python packet_sniffer.py
